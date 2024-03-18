@@ -10,6 +10,10 @@ const customerSchema = new mongoose.Schema(
       type: String,
       reqired: false,
     },
+    password: {
+      type: String,
+      required: true
+    },
     address: {
       type: String,
       required: true,

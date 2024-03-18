@@ -10,6 +10,10 @@ const sellerSchema = new mongoose.Schema(
       type: String,
       reqired: false,
     },
+    password: {
+      type: String,
+      required: true
+    },
     email: {
       type: String,
       required: true,
