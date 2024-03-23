@@ -29,6 +29,9 @@ const adminSchema = new mongoose.Schema(
       type: String,
       require: false,
     },
+    refreshToken: {
+      type: String
+    }
   },
   { timeseries: true }
 );
