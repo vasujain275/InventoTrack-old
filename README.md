@@ -1,5 +1,7 @@
 # InventoTrack: Smart Inventory Management System
 
+# **Incomplete:** This is incomplete implementation of this Project. Fesh and Better Version - [InventoTrack](https://github.com/vasujain275/InventoTrack)
+
 ## Project Overview
 
 For a company that deals with a wide range of products, and managing inventory efficiently is crucial. The goal of this project is to create a robust backend system that optimizes inventory management, automates processes, and ensures accurate stock tracking.
